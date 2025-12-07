@@ -1,0 +1,7 @@
+konlpy
+jpype1
+scikit-learn
+pandas
+matplotlib
+seaborn
+wordcloud
