@@ -14,8 +14,8 @@ It performs tokenization, vectorization (TF-IDF/Count), word cloud generation, a
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ben10js/personal-recommender.git
-   cd personal-recommender
+   git clone https://github.com/ben10js/obsidian-textmining.git
+   cd obsidian-textmining
    ```
 
 2. **Install dependencies**:
