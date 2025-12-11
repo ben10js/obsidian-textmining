@@ -6,7 +6,7 @@ This project is a personalized recommendation engine designed to analyze a priva
 <img src="https://github.com/user-attachments/assets/f35e4458-f0de-4557-aaa6-308da0093eb6" alt="word_cloud" width="400" style="display:inline-block;"/>
 <img src="https://github.com/user-attachments/assets/40440685-d0af-420f-a65a-700121c620eb" alt="frq_chart" width="400" style="display:inline-block;"/>
 
-```
+```powershell
 === Multi-Level Personal Recommender ===
 Enter a query to find similar [Documents / Paragraphs / Sentences / Keywords].
 
