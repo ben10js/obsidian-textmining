@@ -2,6 +2,8 @@
 
 ## Overview
 This project is a personalized recommendation engine designed to analyze a private Obsidian knowledge base (Markdown notes). Unlike generic search engines, it discovers latent semantic connections between notes by calculating similarity at multiple levels (Document, Paragraph, Sentence). It was developed to enhance metacognitive processes by surfacing relevant past thoughts and context during the writing process.
+<img width="1000" height="500" alt="word_cloud" src="https://github.com/user-attachments/assets/f35e4458-f0de-4557-aaa6-308da0093eb6" />
+<img width="1200" height="700" alt="frq_chart" src="https://github.com/user-attachments/assets/40440685-d0af-420f-a65a-700121c620eb" />
 
 ## Data
 - **Source**: Personal Obsidian Vault (Markdown files).
